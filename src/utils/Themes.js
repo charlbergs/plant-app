@@ -1,0 +1,45 @@
+// color theme for react native paper
+export const theme = {
+    'colors': {
+        'primary': 'rgb(87, 153, 105)',
+        'onPrimary': 'rgb(255, 255, 255)',
+        'primaryContainer': 'rgb(171, 247, 191)',
+        'onPrimaryContainer': 'rgb(0, 81, 35)',
+        'secondary': 'rgb(142, 153, 144)',
+        'onSecondary': 'rgb(255, 255, 255)',
+        'secondaryContainer': 'rgb(221, 246, 221)',
+        'onSecondaryContainer': 'rgb(25, 42, 24)',
+        'tertiary': 'rgb(113, 128, 81)',
+        'onTertiary': 'rgb(255, 255, 255)',
+        'tertiaryContainer': 'rgb(223, 255, 217)',
+        'onTertiaryContainer': 'rgb(20, 50, 16)',
+        'error': 'rgb(186, 26, 26)',
+        'onError': 'rgb(255, 255, 255)',
+        'errorContainer': 'rgb(255, 218, 214)',
+        'onErrorContainer': 'rgb(65, 0, 2)',
+        'background': 'rgb(255, 255, 255)',
+        'onBackground': 'rgb(28, 30, 27)',
+        'surface': 'rgb(255, 251, 255)',
+        'onSurface': 'rgb(28, 30, 27)',
+        'surfaceVariant': 'rgb(227, 235, 223)',
+        'onSurfaceVariant': 'rgb(71, 78, 69)',
+        'outline': 'rgb(119, 126, 117)',
+        'outlineVariant': 'rgb(199, 206, 196)',
+        'shadow': 'rgb(0, 0, 0)',
+        'scrim': 'rgb(0, 0, 0)',
+        'inverseSurface': 'rgb(47, 51, 47)',
+        'inverseOnSurface': 'rgb(245, 239, 244)',
+        'inversePrimary': 'rgb(193, 255, 184)',
+        'elevation': {
+          'level0': 'transparent',
+          'level1': 'rgb(244, 251, 242)',
+          'level2': 'rgb(241, 248, 236)',
+          'level3': 'rgb(235, 246, 231)',
+          'level4': 'rgb(233, 245, 229)',
+          'level5': 'rgb(231, 243, 226)'
+        },
+        'surfaceDisabled': 'rgba(27, 30, 27, 0.12)',
+        'onSurfaceDisabled': 'rgba(27, 30, 27, 0.38)',
+        'backdrop': 'rgba(4, 55, 34, 0.4)'
+      }
+};
